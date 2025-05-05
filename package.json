@@ -1,0 +1,22 @@
+{
+  "name": "practicagit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xangeldlrm/PracticaGit.git"
+  },
+  "author": "AngelArmas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xangeldlrm/PracticaGit/issues"
+  },
+  "homepage": "https://github.com/xangeldlrm/PracticaGit#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
